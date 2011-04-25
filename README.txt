@@ -4,7 +4,7 @@ Auto:
 	E-Mail:		pi [A T] laszlojaeger.com 
 
 Script:
-	PHP5 Benötig
+	PHP5 Benoetig
 	released am 26.04.2011
 
 Lizenz:
