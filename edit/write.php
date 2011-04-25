@@ -2,13 +2,13 @@
 if($_POST[blog] != ""){
 $text = $_POST[blog]; // Dateiinhalt
     $umlaute = array(
-        'Ä' => '&Auml;',
-        'ä' => '&auml;',
-        'Ö' => '&Ouml;',
-        'ö' => '&ouml;',
-        'Ü' => '&Uuml;',
-        'ü' => '&uuml;',
-        'ß' => '&szlig;', );
+        'Ã„' => '&Auml;',
+        'Ã¤' => '&auml;',
+        'Ã–' => '&Ouml;',
+        'Ã¶' => '&ouml;',
+        'Ãœ' => '&Uuml;',
+        'Ã¼' => '&uuml;',
+        'ÃŸ' => '&szlig;', );
     $text = str_replace(array_keys($umlaute),
         array_values($umlaute), $text);
 
@@ -21,8 +21,8 @@ $DATE = date("j-M-Y H:i, l");
 $text = "\n<a name=\"$NRcounter\"><div class=\"titel\"><a href=\"#$NRcounter\">#$NRcounter</a> $DATE</div></a>\n<p>$text</p>\n\n"; // Zeilen hinzufuegen  
 
 $array = file("../index.php"); // Datei in ein Array einlesen
-// Zeile 17 wird geändert
-// (das Array fängt mit dem Zählen bei 0 an)
+// Zeile 17 wird geaendert
+// (das Array faengt mit dem Zaehlen bei 0 an)
 array_splice($array, 16, 1, $text);
 // Array-Elemente zu einem String (Zeichenkette) verbinden
 $string = implode("", $array);
