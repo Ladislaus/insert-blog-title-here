@@ -1,6 +1,6 @@
 Auto:
 	Name:			Laszlo Jaeger
-	Homepage:		http://laszlojaeger.com
+	Homepage:		http://www.laszlojaeger.com
 	E-Mail:			pi [A T] laszlojaeger.com
 
 Script:
