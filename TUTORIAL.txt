@@ -2,7 +2,7 @@ I	Lade alle Dateien Hoch
 II	Erstelle eine .htpasswd (http://www.htaccesstools.com/htpasswd-generator/), und lade sie in das /edit/ Verzeichnis hoch
 III 	Gib Allen Dateien die richtige rechte (siehe Rechtetabelle unten.
 IV 	Ändere das Datum im Footer (neben den Counter) bei der /index.php Datei, in das aktuelle Datum.
-V	Enjoy Blogging! Bei Problemen, melden sie diese bitte bei mir (pi [A T] laszlojaeger.com).
+V	Enjoy Blogging! Bei Problemen, melden sie diese bitte bei mir (support [A T] laszlojaeger.com).
 
 Dateirechte:
 777	/Blog.css

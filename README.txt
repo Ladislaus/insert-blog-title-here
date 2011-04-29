@@ -1,7 +1,7 @@
 Auto:
-	Name:			Laszlo Jaeger
+	Name:				Laszlo Jaeger
 	Homepage:		http://www.laszlojaeger.com
-	E-Mail:			pi [A T] laszlojaeger.com
+	E-Mail:			support [A T] laszlojaeger.com
 
 Script:
 	Name:			[insert blog title here]
