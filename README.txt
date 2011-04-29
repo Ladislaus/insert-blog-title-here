@@ -10,7 +10,7 @@ Script:
 	Demo/Entwickler Blog: http://www.blog.laszlojaeger.com
 
 Lizenz:
-    [insert blog title here], ein kleines auf das KISS Prinzip basierendes Blog Script. Es wird nur HTML und PHP unterstzüzung vorausgesetzt.
+    [insert blog title here], ein kleines auf das KISS Prinzip basierendes Blog Script. Es wird nur HTML und PHP unterstzuezung vorausgesetzt.
     Copyright (C) [Jahr]  [Name des Autors]
 
     This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
