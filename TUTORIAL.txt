@@ -1,8 +1,10 @@
-I	Lade alle Dateien Hoch
-II	Erstelle eine .htpasswd (http://www.htaccesstools.com/htpasswd-generator/), und lade sie in das /edit/ Verzeichnis hoch
-III 	Gib Allen Dateien die richtige rechte (siehe Rechtetabelle unten.
-IV 	Ändere das Datum im Footer (neben den Counter) bei der /index.php Datei, in das aktuelle Datum.
-V	Enjoy Blogging! Bei Problemen, melden sie diese bitte bei mir (support [A T] laszlojaeger.com).
+I		Lade alle Dateien Hinunter.
+II	Aendere in der Datei /index.php xx.xx.xxxx in das Datum, an den du den Blog hochlaedst.
+III	Erstelle eine .htpasswd und eine .htaccess (http://www.htaccesstools.com/htpasswd-generator/) und lege sie in das /edit/ Verzeichnis.
+IV	Lade alle Dateien auf deinen Webspace hoch.
+V		Gib allen Dateien die richtige rechte (siehe Rechtetabelle unten.
+VI	Nun kannst du unter /edit/ einen Blog eintrag machen. Du kannst alle HTML befehle benutzen, es reicht aber wenn du einfach ein Text schreibst. An besten ist wenn du alles in eine durchgehende Zeile schreibst, also nie [ENTER] klickst.
+VII	Enjoy Blogging! Bei Problemen, melden diese bitte bei mir (support [A T] laszlojaeger.com).
 
 Dateirechte:
 777	/Blog.css
