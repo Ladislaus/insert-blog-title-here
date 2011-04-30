@@ -1,16 +1,10 @@
 Auto:
-<<<<<<< HEAD
 	Name:				Laszlo Jaeger
 	Homepage:		http://www.laszlojaeger.com
 	E-Mail:			support [A T] laszlojaeger.com
-=======
-	Name:			Laszlo Jaeger
-	Homepage:		http://laszlojaeger.com
-	E-Mail:			pi [A T] laszlojaeger.com
->>>>>>> 78038e9... GPL update
-
+	
 Script:
-	Name:			[insert blog title here]
+	Name:				[insert blog title here]
 	Released:		26.04.2011
 	Benoetig:		PHP5
 	Demo/Entwickler Blog:	http://www.blog.laszlojaeger.com
