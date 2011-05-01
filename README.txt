@@ -5,6 +5,7 @@ Auto:
 	
 Script:
 	Name:				[insert blog title here]
+	Version			1.0.1
 	Released:		26.04.2011
 	Benoetig:		PHP5
 	Demo/Entwickler Blog:	http://www.blog.laszlojaeger.com
