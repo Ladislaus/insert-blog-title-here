@@ -49,7 +49,7 @@ fclose($Vdatei);
 }
 ?>
  Besucher<small> (Seit dem XX.XX.XXXX)</small>&nbsp;<br>
-Dieses Script ist von <a href="http://www.laszlojaeger.com/" style="color : #8888ff;"> Laszlo J&auml;ger</a> geschrieben, und steht unter der GNU GPL auf <a href="https://github.com/Ladislaus/insert-blog-title-here/" style="color : #8888ff;">github.com</a> kostenfrei zum download bereit. &nbsp;</p>
+Dieses Script ist von <a href="http://www.laszlojaeger.com/" style="color : #009933;"> Laszlo J&auml;ger</a> geschrieben, und steht unter der GNU GPL auf <a href="https://github.com/Ladislaus/insert-blog-title-here/" style="color : #009933;">github.com</a> kostenfrei zum download bereit.&nbsp;</p>
 </div>
 </body>
 </html>
