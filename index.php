@@ -5,8 +5,10 @@ setcookie("Vuser", "Besucher", time()+3600);
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-		<title>Ladislaus Blog v.1.0.1</title>
+		<title>Ladislaus Blog v.1.2</title>
 		<link rel="stylesheet" type="text/css" href="Blog.css">
+		<meta name = "viewport" content = "width = device-width">
+		<link rel="apple-touch-icon" href="iPhone.png" />
 	</head>
 <body>
 <div class="header">

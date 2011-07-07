@@ -47,3 +47,18 @@ a:active {
 color : #0000aa;
 text-decoration : none;
 }
+
+@media screen and (max-device-width: 480px){
+body {
+     width: 320px;
+     font: 12pt Helvetica, sans-serif;
+}
+img, table {
+     max-width: 320px;
+}
+.titel {
+font-size: 25px;
+margin-left: -8px;
+margin-right: -8px;
+}
+}

@@ -23,7 +23,7 @@ $text = "\n<a name=\"$NRcounter\"><div class=\"titel\"><a href=\"#$NRcounter\">#
 $array = file("../index.php"); // Datei in ein Array einlesen
 // Zeile 17 wird geaendert
 // (das Array faengt mit dem Zaehlen bei 0 an)
-array_splice($array, 16, 1, $text);
+array_splice($array, 18, 1, $text);
 // Array-Elemente zu einem String (Zeichenkette) verbinden
 $string = implode("", $array);
 // Text in Datei schreiben und speichern
