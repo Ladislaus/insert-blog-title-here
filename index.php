@@ -12,7 +12,7 @@ setcookie("Vuser", "Besucher", time()+3600);
 	</head>
 <body>
 <div class="header">
-<h2><a href="http://www.laszlojaeger.com/index.php">[insert blog title here]</a></h2>
+<h2><a href="http://www.blog.laszlojaeger.com/">[insert blog title here]</a></h2>
 </div>
 <div class="content">
 <!-- Hier wird eingesetzt -->

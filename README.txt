@@ -5,10 +5,13 @@ Auto:
 	
 Script:
 	Name:				[insert blog title here]
-	Version			1.0.1
-	Released:		26.04.2011
+	Version			1.2
+	Released:		08.07.2011
 	Benoetig:		PHP
 	Demo/Entwickler Blog:	http://www.blog.laszlojaeger.com
+	
+	First release 1.0.1
+	First releasedate 26.04.2011
 
 Lizenz:
     [insert blog title here], ein kleines auf das KISS Prinzip basierendes Blog Script. Es wird nur HTML und PHP unterstzuezung vorausgesetzt.
